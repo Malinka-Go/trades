@@ -1,10 +1,2 @@
 
-файл prm.py в терминале кроме этого сообщения
-PS C:\Users\Админ> & C:/Users/Админ/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/Админ/Desktop/Projpy/prime/prm.py
-
- ничего не происходит. Но уже не зависает и нет никаких проблемных участков. У меня еще были проблемы с установкой websocket client, поэтому я нашел другой 
-коннектор (файл prm_new_connector.py) инструкцию взял отсюда https://sky.pro/media/podklyuchenie-k-baze-dannyh-mysql-s-pomoshhyu-python/
-
-Итого у меня сейчас ничего не ругается, но ничего и не происходит.
-
-1272 - это самый свежий исправленный вариант. Но пока все равно нет результата
+удалить
